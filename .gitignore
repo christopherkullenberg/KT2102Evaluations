@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+compile.sh
+technology-pedagogy-and-education.csl
+*.png
+AssignmentHPE103.md
+AssignmentHPE103.pdf
+
 # Distribution / packaging
 .Python
 build/
